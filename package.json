@@ -1,0 +1,27 @@
+{
+  "name": "planet-names",
+  "version": "1.0.0",
+  "description": "Get a random planet name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeAnagnostopoulos/planet-names.git"
+  },
+  "keywords": [
+    "random",
+    "planet",
+    "name"
+  ],
+  "author": "George J. Anagnostopoulos <anagnostopoulos.george@gmail.com> (https://github.com/GeorgeAnagnostopoulos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgeAnagnostopoulos/planet-names/issues"
+  },
+  "homepage": "https://github.com/GeorgeAnagnostopoulos/planet-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
